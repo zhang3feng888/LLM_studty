@@ -3,7 +3,7 @@
 cd BigModel
 
 CUDA_VISIBLE_DEVICES=7 python -m vllm.entrypoints.openai.api_server \
-  --model Qwen/Qwen3-4B \
+  --model /data5/zhangenwei/BigModel/Qwen/Qwen3-4B \
   --max-model-len=2048 \
   --host 0.0.0.0 \
   --port 8000 \
