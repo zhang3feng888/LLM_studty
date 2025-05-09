@@ -3,3 +3,9 @@ https://blog.csdn.net/hsloner/article/details/146503444?spm=1001.2101.3001.6650.
 ./data5/zhangenwei/MCP_API.sh
 
 python /data5/zhangenwei/MCP_test/get_wether/client.py /data5/zhangenwei/MCP_test/get_wether/server.py
+
+
+创建一个 .env 文件，内容为：
+OPENAI_API_KEY=API-KEY
+BASE_URL=http://localhost:8000/v1
+model=Qwen/Qwen3-4B
