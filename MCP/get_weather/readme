@@ -2,7 +2,7 @@ https://blog.csdn.net/hsloner/article/details/146503444?spm=1001.2101.3001.6650.
 
 ./data5/zhangenwei/MCP_API.sh
 
-python /data5/zhangenwei/MCP_test/get_wether/client.py /data5/zhangenwei/MCP_test/get_wether/server.py
+python /data5/zhangenwei/MCP/client.py /data5/zhangenwei/MCP_test/get_wether/server.py
 
 
 创建一个 .env 文件，内容为：
