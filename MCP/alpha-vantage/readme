@@ -1,0 +1,8 @@
+https://github.com/berlinbra/alpha-vantage-mcp/tree/main?tab=readme-ov-file
+
+./data5/zhangenwei/MCP_API.sh
+
+python /data5/zhangenwei/MCP/client.py /data5/zhangenwei/MCP/alpha-vantage/server.py
+
+.env
+ALPHA_VANTAGE_API_KEY=2A9WBDNSKDP1BHYP
