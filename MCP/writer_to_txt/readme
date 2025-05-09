@@ -2,6 +2,4 @@ https://blog.csdn.net/m0_61525039/article/details/146404984
 
 ./data5/zhangenwei/MCP_API.sh
 
-python /data5/zhangenwei/MCP_test/write_to_txt/server.py
-
-python /data5/zhangenwei/MCP_test/write_to_txt/client.py /data5/zhangenwei/MCP_test/write_to_txt/server.py
+python /data5/zhangenwei/MCP/client.py /data5/zhangenwei/MCP_test/write_to_txt/server.py
