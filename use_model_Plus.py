@@ -1,4 +1,4 @@
-# 不使用API，创建模型，连续对话
+# 不使用API，创建模型，连续对话，想问啥问啥
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
